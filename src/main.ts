@@ -1,5 +1,6 @@
 import './styles/style.scss';
 
+//* Assets
 import reactImg from './assets/react-img.png';
 import vueImg from './assets/vue-img.jpeg';
 import angularImg from './assets/angular-img.webp';

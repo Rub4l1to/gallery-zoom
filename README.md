@@ -5,9 +5,13 @@
 ![Javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Sass](https://img.shields.io/static/v1?style=for-the-badge&message=Sass&color=CC6699&logo=Sass&logoColor=FFFFFF&label=)
 
-The web application basically tries to connect to the unplash API and perform image searches based on our own search.
+## Preview
+
+![Captura de Pantalla 2022-05-21 a las 19 56 54](https://user-images.githubusercontent.com/48188704/169663671-17029ad5-fcfa-4955-b1ab-103f3992fe4b.png)
 
 ## Features
+
+- Zoom effect on image focusing
 
 ## Setup
 
